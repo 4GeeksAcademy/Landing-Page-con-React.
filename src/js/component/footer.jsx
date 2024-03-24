@@ -4,7 +4,7 @@ const Footer = () => {
 	return (
     <div className="card text-center">
 		<div className="footer-expand-lg bg-dark text-center text-white py-5">
-    <p>Copyrigth © Jonay Website 2024</p>
+    <p>Copyrigth © anarg1812 Website 2024</p>
         </div>
     </div>
 	);
